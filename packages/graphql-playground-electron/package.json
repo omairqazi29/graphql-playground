@@ -109,7 +109,7 @@
     "redux-localstorage-filter": "^0.1.1",
     "styled-jsx": "0.5.2",
     "styled-jsx-postcss": "git+https://github.com/timsuchanek/styled-jsx-postcss#build3",
-    "validator": "^9.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/classnames": "2.2.3",
