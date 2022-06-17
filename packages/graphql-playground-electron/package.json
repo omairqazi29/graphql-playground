@@ -129,7 +129,7 @@
     "babili-webpack-plugin": "0.1.2",
     "concurrently": "3.5.1",
     "css-loader": "0.23.1",
-    "electron": "1.8.1",
+    "electron": "15.5.5",
     "electron-builder": "19.49.2",
     "electron-devtools-installer": "2.2.3",
     "extract-text-webpack-plugin": "2.1.2",
